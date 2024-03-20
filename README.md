@@ -7,7 +7,7 @@ Este é um simples encurtador de URL desenvolvido em Node.js usando Express e Mo
 1. Certifique-se de ter o Node.js e o MongoDB instalados em seu sistema.
 2. Clone este repositório em sua máquina local usando o comando:
 3. git clone https://github.com/gusstavo01/Encurtador-de-Url.git
-4. 3. Instale as dependências do projeto executando o comando: npm install
+4. Instale as dependências do projeto executando o comando: npm install
   
 O servidor estará disponível em http://localhost:5000/.
 
